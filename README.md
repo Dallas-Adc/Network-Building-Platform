@@ -22,8 +22,7 @@ A Windows-based SDN gateway configuration and management platform.
 运行：双击可执行文件（需与网关在同一局域网）
 
 ## 📸 软件截图
-（在这里插入图片）
-![screenshot](./images/screenshot.png)
+![软件界面显示图](./images/screenshot.png)
 
 ## ⚖️ License
 本软件已获得中国软件著作权登记。视情况可选择 MIT License / GPL / Apache License 或保留所有权利。
